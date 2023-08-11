@@ -37,7 +37,7 @@ Markdown==3.3.4
 MarkupSafe==2.0.1
 matplotlib==3.4.3
 matplotlib-inline==0.1.2
-mpmath==1.2.1
+mpmath==1.3.0
 numexpr==2.7.3
 numpy==1.19.5
 oauthlib==3.1.1
